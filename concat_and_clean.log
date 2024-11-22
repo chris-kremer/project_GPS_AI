@@ -1,0 +1,148 @@
+2024-09-23 12:05:45 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240921_185606
+2024-09-23 12:05:45 - ERROR - 'gps_proc' folder not found in /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240921_185606.
+2024-09-23 12:06:03 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240921_184735
+2024-09-23 12:06:03 - INFO - Reading file: results_Tanzania.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Guatemala.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Germany.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Venezuela.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Cambodia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Argentina.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Iran.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Turkey.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Brazil.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Czech Republic.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Greece.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Colombia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Sweden.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_United States.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Bosnia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Austria.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Australia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Poland.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Georgia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_United Kingdom.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Russia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Cameroon.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_China.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Kazakhstan.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Kenya.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Ghana.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Romania.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Morocco.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Vietnam.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Finland.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Croatia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Rwanda.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Netherlands.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Philippines.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_South Africa.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Pakistan.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_India.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Hungary.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Italy.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Bolivia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Jordan.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Chile.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Malawi.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Portugal.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Thailand.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Afghanistan.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Japan.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Algeria.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Suriname.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Nicaragua.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Estonia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Egypt.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Mexico.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Ukraine.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Iraq.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Canada.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Moldova.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Peru.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_None.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Switzerland.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_South Korea.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Bangladesh.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Nigeria.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Spain.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Botswana.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Israel.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Uganda.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Serbia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Haiti.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Costa Rica.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_France.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Indonesia.csv
+2024-09-23 12:06:03 - INFO - Reading file: results_Lithuania.csv
+2024-09-23 12:06:03 - INFO - Concatenated 77 CSV files.
+2024-09-23 12:06:03 - INFO - Dropped 100 duplicate rows.
+2024-09-23 12:06:03 - INFO - Dropped rows where all elements are NaN.
+2024-09-23 12:06:03 - INFO - Cleaned data saved to: /Users/chris/Documents/project_GPS_AI/data/processed/cleaned_data.csv
+2024-09-23 12:13:41 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-23 12:13:41 - INFO - Reading file: results_Tanzania.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Guatemala.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Germany.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Venezuela.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Cambodia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Argentina.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Iran.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Turkey.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Brazil.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Czech Republic.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Greece.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Colombia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Sweden.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_United States.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Bosnia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Austria.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Australia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Poland.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Georgia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_United Kingdom.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Cameroon.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_China.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Ghana.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Morocco.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Vietnam.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Finland.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Croatia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Rwanda.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_South Africa.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_India.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Hungary.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Italy.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Bolivia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Chile.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Malawi.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Thailand.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Afghanistan.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Algeria.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Suriname.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Estonia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Egypt.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Ukraine.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Canada.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Switzerland.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_South Korea.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Bangladesh.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Spain.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Botswana.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Israel.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Uganda.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Serbia.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Haiti.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Costa Rica.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_France.csv
+2024-09-23 12:13:41 - INFO - Reading file: results_Indonesia.csv
+2024-09-23 12:13:41 - INFO - Concatenated 59 CSV files.
+2024-09-23 12:13:41 - INFO - Dropped 3696 duplicate rows.
+2024-09-23 12:13:41 - INFO - Dropped rows where all elements are NaN.
+2024-09-23 12:13:42 - INFO - Cleaned data saved to: /Users/chris/Documents/project_GPS_AI/data/processed/cleaned_data.csv

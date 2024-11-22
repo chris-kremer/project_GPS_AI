@@ -1,0 +1,989 @@
+2024-09-19 15:15:53 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-19 15:15:53 - INFO - Reading file: results_Tanzania.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Guatemala.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Germany.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Venezuela.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Cambodia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Argentina.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Iran.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Turkey.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Brazil.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Czech Republic.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Greece.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Colombia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Sweden.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_United States.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Bosnia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Austria.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Australia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Poland.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Georgia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_United Kingdom.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Cameroon.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_China.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Ghana.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Morocco.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Vietnam.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Finland.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Croatia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Rwanda.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_South Africa.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_India.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Hungary.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Italy.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Bolivia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Chile.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Malawi.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Thailand.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Afghanistan.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Algeria.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Suriname.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Estonia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Egypt.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Ukraine.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Canada.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-19 15:15:53 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Switzerland.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_South Korea.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Bangladesh.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Spain.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Botswana.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Israel.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Uganda.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Serbia.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Haiti.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Costa Rica.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_France.csv
+2024-09-19 15:15:54 - INFO - Reading file: results_Indonesia.csv
+2024-09-19 15:15:54 - INFO - Concatenated 59 CSV files.
+2024-09-19 15:15:54 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-19 15:15:54 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-19 15:21:15 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-19 15:21:15 - INFO - Reading file: results_Tanzania.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Guatemala.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Germany.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Venezuela.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Cambodia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Argentina.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Iran.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Turkey.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Brazil.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Czech Republic.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Greece.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Colombia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Sweden.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_United States.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Bosnia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Austria.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Australia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Poland.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Georgia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_United Kingdom.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Cameroon.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_China.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Ghana.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Morocco.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Vietnam.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Finland.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Croatia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Rwanda.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_South Africa.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_India.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Hungary.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Italy.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Bolivia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Chile.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Malawi.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Thailand.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Afghanistan.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Algeria.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Suriname.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Estonia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Egypt.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Ukraine.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Canada.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Switzerland.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_South Korea.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Bangladesh.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Spain.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Botswana.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Israel.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Uganda.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Serbia.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Haiti.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Costa Rica.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_France.csv
+2024-09-19 15:21:15 - INFO - Reading file: results_Indonesia.csv
+2024-09-19 15:21:15 - INFO - Concatenated 59 CSV files.
+2024-09-19 15:21:15 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-19 15:21:15 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-19 15:21:15 - INFO - Dropped 15 rows due to missing data.
+2024-09-19 15:21:15 - INFO - Created dummy variables for categorical column: Gender
+2024-09-19 15:21:15 - INFO - Created dummy variables for 'Country'.
+2024-09-19 15:21:15 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-19 15:21:15 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-19 15:21:15 - INFO - Dropped 15 rows due to missing data.
+2024-09-19 15:21:15 - INFO - Created dummy variables for categorical column: Gender
+2024-09-19 15:21:15 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-19 15:21:15 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:25:12 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:25:12 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_United States.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_China.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_India.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_France.csv
+2024-09-21 13:25:12 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:25:12 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:25:12 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:25:12 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:25:12 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:25:12 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:25:12 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:25:12 - DEBUG - 'y' dtype: float64
+2024-09-21 13:25:12 - DEBUG - 'X' dtypes:
+Age                             int64
+Gender_male                      bool
+Country_Algeria                  bool
+Country_Argentina                bool
+Country_Australia                bool
+Country_Austria                  bool
+Country_Bangladesh               bool
+Country_Bolivia                  bool
+Country_Bosnia                   bool
+Country_Botswana                 bool
+Country_Brazil                   bool
+Country_Cambodia                 bool
+Country_Cameroon                 bool
+Country_Canada                   bool
+Country_Chile                    bool
+Country_China                    bool
+Country_Colombia                 bool
+Country_Costa Rica               bool
+Country_Croatia                  bool
+Country_Czech Republic           bool
+Country_Egypt                    bool
+Country_Estonia                  bool
+Country_Finland                  bool
+Country_France                   bool
+Country_Georgia                  bool
+Country_Germany                  bool
+Country_Ghana                    bool
+Country_Greece                   bool
+Country_Guatemala                bool
+Country_Haiti                    bool
+Country_Hungary                  bool
+Country_India                    bool
+Country_Indonesia                bool
+Country_Iran                     bool
+Country_Israel                   bool
+Country_Italy                    bool
+Country_Malawi                   bool
+Country_Morocco                  bool
+Country_Poland                   bool
+Country_Rwanda                   bool
+Country_Saudi Arabia             bool
+Country_Serbia                   bool
+Country_South Africa             bool
+Country_South Korea              bool
+Country_Spain                    bool
+Country_Sri Lanka                bool
+Country_Suriname                 bool
+Country_Sweden                   bool
+Country_Switzerland              bool
+Country_Tanzania                 bool
+Country_Thailand                 bool
+Country_Turkey                   bool
+Country_Uganda                   bool
+Country_Ukraine                  bool
+Country_United Arab Emirates     bool
+Country_United Kingdom           bool
+Country_United States            bool
+Country_Venezuela                bool
+Country_Vietnam                  bool
+Country_Zimbabwe                 bool
+dtype: object
+2024-09-21 13:25:12 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:25:12 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:25:12 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:25:12 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:25:12 - DEBUG - 'y' dtype: float64
+2024-09-21 13:25:12 - DEBUG - 'X' dtypes:
+Age            int64
+Gender_male     bool
+dtype: object
+2024-09-21 13:25:12 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:25:12 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:27:14 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:27:14 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_United States.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_China.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_India.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_France.csv
+2024-09-21 13:27:14 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:27:14 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:27:14 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:27:14 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:27:14 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:27:14 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:27:14 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:28:04 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:28:04 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_United States.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_China.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_India.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_France.csv
+2024-09-21 13:28:04 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:28:04 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:28:04 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:28:04 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:28:04 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:28:04 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:28:04 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:28:04 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:28:04 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:28:04 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:28:04 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:28:04 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:28:04 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:30:32 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:30:32 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_United States.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_China.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_India.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_France.csv
+2024-09-21 13:30:32 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:30:32 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:30:32 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:30:32 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:30:32 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:30:32 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:30:32 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:30:32 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:30:32 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:30:32 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:30:32 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:30:32 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:30:32 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:32:55 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:32:55 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_United States.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_China.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_India.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_France.csv
+2024-09-21 13:32:55 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:32:55 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:32:55 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:32:55 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:32:55 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:32:55 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:32:55 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:32:55 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:32:55 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:32:55 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:32:55 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:32:55 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:32:55 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:35:39 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:35:39 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_United States.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_China.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_India.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:35:39 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_France.csv
+2024-09-21 13:35:40 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:35:40 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:35:40 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:35:40 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:35:40 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:35:40 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:35:40 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:35:40 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:35:40 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:35:40 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:35:40 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:35:40 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:35:40 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:36:39 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:36:39 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_United States.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_China.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_India.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_France.csv
+2024-09-21 13:36:39 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:36:39 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:36:39 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:36:39 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:36:39 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:36:39 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:36:39 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:36:39 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:36:39 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:36:39 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:36:39 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:36:39 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:36:39 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:43:32 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:43:32 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Germany.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Argentina.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Iran.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Turkey.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Brazil.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Greece.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Colombia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Sweden.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_United States.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Austria.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Australia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Poland.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Georgia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_China.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Ghana.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Morocco.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Finland.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Croatia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_South Africa.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_India.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Hungary.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Italy.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Chile.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Malawi.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Thailand.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Algeria.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Suriname.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Estonia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Egypt.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Canada.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_South Korea.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Spain.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Botswana.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Israel.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Uganda.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Serbia.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Haiti.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_France.csv
+2024-09-21 13:43:32 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 13:43:32 - INFO - Concatenated 59 CSV files.
+2024-09-21 13:43:32 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 13:43:32 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 13:43:32 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:43:32 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:43:32 - INFO - Created dummy variables for 'Country'.
+2024-09-21 13:43:32 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 13:43:32 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 13:43:32 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 13:43:32 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 13:43:32 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 13:43:32 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 16:33:26 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 16:33:26 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Germany.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Argentina.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Iran.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Turkey.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Brazil.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Greece.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Colombia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Sweden.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_United States.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Austria.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Australia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Poland.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Georgia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_China.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Ghana.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Morocco.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Finland.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Croatia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_South Africa.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_India.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Hungary.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Italy.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Chile.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Malawi.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Thailand.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Algeria.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Suriname.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Estonia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Egypt.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Canada.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_South Korea.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Spain.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Botswana.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Israel.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Uganda.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Serbia.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Haiti.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_France.csv
+2024-09-21 16:33:26 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 16:33:26 - INFO - Concatenated 59 CSV files.
+2024-09-21 16:33:26 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 16:33:26 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 16:33:26 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 16:33:26 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 16:33:26 - INFO - Created dummy variables for 'Country'.
+2024-09-21 16:33:26 - INFO - Data types of independent variables (X):
+2024-09-21 16:33:26 - INFO - Age                             int64
+Gender_male                      bool
+Country_Algeria                  bool
+Country_Argentina                bool
+Country_Australia                bool
+Country_Austria                  bool
+Country_Bangladesh               bool
+Country_Bolivia                  bool
+Country_Bosnia                   bool
+Country_Botswana                 bool
+Country_Brazil                   bool
+Country_Cambodia                 bool
+Country_Cameroon                 bool
+Country_Canada                   bool
+Country_Chile                    bool
+Country_China                    bool
+Country_Colombia                 bool
+Country_Costa Rica               bool
+Country_Croatia                  bool
+Country_Czech Republic           bool
+Country_Egypt                    bool
+Country_Estonia                  bool
+Country_Finland                  bool
+Country_France                   bool
+Country_Georgia                  bool
+Country_Germany                  bool
+Country_Ghana                    bool
+Country_Greece                   bool
+Country_Guatemala                bool
+Country_Haiti                    bool
+Country_Hungary                  bool
+Country_India                    bool
+Country_Indonesia                bool
+Country_Iran                     bool
+Country_Israel                   bool
+Country_Italy                    bool
+Country_Malawi                   bool
+Country_Morocco                  bool
+Country_Poland                   bool
+Country_Rwanda                   bool
+Country_Saudi Arabia             bool
+Country_Serbia                   bool
+Country_South Africa             bool
+Country_South Korea              bool
+Country_Spain                    bool
+Country_Sri Lanka                bool
+Country_Suriname                 bool
+Country_Sweden                   bool
+Country_Switzerland              bool
+Country_Tanzania                 bool
+Country_Thailand                 bool
+Country_Turkey                   bool
+Country_Uganda                   bool
+Country_Ukraine                  bool
+Country_United Arab Emirates     bool
+Country_United Kingdom           bool
+Country_United States            bool
+Country_Venezuela                bool
+Country_Vietnam                  bool
+Country_Zimbabwe                 bool
+dtype: object
+2024-09-21 16:33:26 - INFO - Processed data saved to: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944/results/Risk_Analysis_1_processed_data.csv
+2024-09-21 16:33:26 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 16:33:26 - ERROR - Error performing regression Risk Analysis 1: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 16:33:26 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 16:33:26 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 16:33:26 - INFO - Data types of independent variables (X):
+2024-09-21 16:33:26 - INFO - Age            int64
+Gender_male     bool
+dtype: object
+2024-09-21 16:33:27 - INFO - Processed data saved to: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944/results/Risk_Analysis_2_processed_data.csv
+2024-09-21 16:33:27 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 16:33:27 - ERROR - Error performing regression Risk Analysis 2: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+2024-09-21 17:52:06 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 17:52:06 - INFO - Reading file: results_Tanzania.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Guatemala.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Germany.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Venezuela.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Cambodia.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Argentina.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Iran.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Turkey.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Brazil.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Czech Republic.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Greece.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Colombia.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_Sweden.csv
+2024-09-21 17:52:06 - INFO - Reading file: results_United States.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Bosnia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Austria.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Australia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Poland.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Georgia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_United Kingdom.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Cameroon.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_China.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Ghana.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Morocco.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Vietnam.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Finland.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Croatia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Rwanda.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_South Africa.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_India.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Hungary.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Sri Lanka.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_United Arab Emirates.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Italy.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Bolivia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Chile.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Malawi.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Thailand.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Afghanistan.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Algeria.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Suriname.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Estonia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Egypt.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Ukraine.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Canada.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Saudi Arabia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Zimbabwe.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Switzerland.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_South Korea.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Bangladesh.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Spain.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Botswana.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Israel.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Uganda.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Serbia.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Haiti.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Costa Rica.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_France.csv
+2024-09-21 17:52:07 - INFO - Reading file: results_Indonesia.csv
+2024-09-21 17:52:07 - INFO - Concatenated 59 CSV files.
+2024-09-21 17:52:07 - INFO - Most recent run folder: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944
+2024-09-21 17:52:07 - INFO - Available columns: ['Participant ID', 'Participant Hash', 'Question', 'Answer', 'Short Title', 'Age', 'Gender', 'Country']
+2024-09-21 17:52:07 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 17:52:07 - INFO - Unique 'Answer' values after mapping: [ 1.  0.  3.  2.  4.  8.  5.  7.  6.  9. 10. 12.]
+2024-09-21 17:52:07 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 17:52:07 - INFO - Created dummy variables for 'Country'.
+2024-09-21 17:52:07 - INFO - Processed data saved to: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944/results/Risk_Analysis_1_processed_data.csv
+2024-09-21 17:52:07 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 17:52:07 - INFO - Regression results saved to: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944/results/Risk_Analysis_1_results.txt
+2024-09-21 17:52:07 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 17:52:07 - INFO - Unique 'Answer' values after mapping: [ 1.  0.  3.  2.  4.  8.  5.  7.  6.  9. 10. 12.]
+2024-09-21 17:52:07 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 17:52:07 - INFO - Processed data saved to: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944/results/Risk_Analysis_2_processed_data.csv
+2024-09-21 17:52:07 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 17:52:07 - INFO - Regression results saved to: /Users/chris/Documents/project_GPS_AI/data/processed/gps_run_20240919_082944/results/Risk_Analysis_2_results.txt

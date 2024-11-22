@@ -1,0 +1,5 @@
+aiohttp
+nest_asyncio
+pandas as pd
+openpyxl
+pyyaml

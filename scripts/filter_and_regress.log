@@ -1,0 +1,15 @@
+2024-09-21 18:18:31 - INFO - Loaded data from /Users/chris/Documents/project_GPS_AI/data/processed/cleaned_data.csv with 126105 rows.
+2024-09-21 18:18:31 - INFO - Filtered down to 5916 rows where 'Short Title' starts with 'Risk'.
+2024-09-21 18:18:31 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 18:18:31 - INFO - Unique 'Answer' values after mapping: [ 1.  0.  3.  2.  4.  8.  5.  7.  6.  9. 10. 12.]
+2024-09-21 18:18:31 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 18:18:31 - INFO - Created dummy variables for 'Country'.
+2024-09-21 18:18:31 - INFO - Processed data saved to: /Users/chris/Documents/project_GPS_AI/results/Risk_Analysis_1_processed_data.csv
+2024-09-21 18:18:31 - INFO - Running regression for Risk Analysis 1 with y: Answer and X columns: ['const', 'Age', 'Gender_male', 'Country_Algeria', 'Country_Argentina', 'Country_Australia', 'Country_Austria', 'Country_Bangladesh', 'Country_Bolivia', 'Country_Bosnia', 'Country_Botswana', 'Country_Brazil', 'Country_Cambodia', 'Country_Cameroon', 'Country_Canada', 'Country_Chile', 'Country_China', 'Country_Colombia', 'Country_Costa Rica', 'Country_Croatia', 'Country_Czech Republic', 'Country_Egypt', 'Country_Estonia', 'Country_Finland', 'Country_France', 'Country_Georgia', 'Country_Germany', 'Country_Ghana', 'Country_Greece', 'Country_Guatemala', 'Country_Haiti', 'Country_Hungary', 'Country_India', 'Country_Indonesia', 'Country_Iran', 'Country_Israel', 'Country_Italy', 'Country_Malawi', 'Country_Morocco', 'Country_Poland', 'Country_Rwanda', 'Country_Saudi Arabia', 'Country_Serbia', 'Country_South Africa', 'Country_South Korea', 'Country_Spain', 'Country_Sri Lanka', 'Country_Suriname', 'Country_Sweden', 'Country_Switzerland', 'Country_Tanzania', 'Country_Thailand', 'Country_Turkey', 'Country_Uganda', 'Country_Ukraine', 'Country_United Arab Emirates', 'Country_United Kingdom', 'Country_United States', 'Country_Venezuela', 'Country_Vietnam', 'Country_Zimbabwe']
+2024-09-21 18:18:31 - INFO - Regression results saved to: /Users/chris/Documents/project_GPS_AI/results/Risk_Analysis_1_results.txt
+2024-09-21 18:18:31 - INFO - Dropped 15 rows due to missing data.
+2024-09-21 18:18:31 - INFO - Unique 'Answer' values after mapping: [ 1.  0.  3.  2.  4.  8.  5.  7.  6.  9. 10. 12.]
+2024-09-21 18:18:31 - INFO - Created dummy variables for categorical column: Gender
+2024-09-21 18:18:31 - INFO - Processed data saved to: /Users/chris/Documents/project_GPS_AI/results/Risk_Analysis_2_processed_data.csv
+2024-09-21 18:18:32 - INFO - Running regression for Risk Analysis 2 with y: Answer and X columns: ['const', 'Age', 'Gender_male']
+2024-09-21 18:18:32 - INFO - Regression results saved to: /Users/chris/Documents/project_GPS_AI/results/Risk_Analysis_2_results.txt

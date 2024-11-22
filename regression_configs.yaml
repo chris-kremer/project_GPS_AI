@@ -1,0 +1,18 @@
+regressions:
+  - name: "Risk Analysis 1"
+    y: "Answer"  # Dependent variable
+    x:
+      - name: "Age"      # Independent variable
+        type: "numeric"
+      - name: "Gender"   # Independent variable
+        type: "categorical"
+    include_country_dummies: true
+
+  - name: "Risk Analysis 2"
+    y: "Answer"
+    x:
+      - name: "Age"
+        type: "numeric"
+      - name: "Gender"
+        type: "categorical"
+    include_country_dummies: false

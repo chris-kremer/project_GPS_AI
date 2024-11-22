@@ -1,0 +1,86 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 Answer   R-squared:                       0.429
+Model:                            OLS   Adj. R-squared:                  0.423
+Method:                 Least Squares   F-statistic:                     73.07
+Date:                Sat, 21 Sep 2024   Prob (F-statistic):               0.00
+Time:                        17:52:07   Log-Likelihood:                -9452.1
+No. Observations:                5901   AIC:                         1.903e+04
+Df Residuals:                    5840   BIC:                         1.943e+04
+Df Model:                          60                                         
+Covariance Type:            nonrobust                                         
+================================================================================================
+                                   coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------
+const                            3.6184      0.129     28.023      0.000       3.365       3.872
+Age                             -0.0312      0.001    -35.783      0.000      -0.033      -0.029
+Gender_male                      0.5288      0.031     16.830      0.000       0.467       0.590
+Country_Algeria                 -1.3510      0.171     -7.914      0.000      -1.686      -1.016
+Country_Argentina               -1.4810      0.171     -8.677      0.000      -1.816      -1.146
+Country_Australia               -1.0379      0.171     -6.081      0.000      -1.373      -0.703
+Country_Austria                 -0.6606      0.171     -3.871      0.000      -0.995      -0.326
+Country_Bangladesh              -1.0415      0.171     -6.102      0.000      -1.376      -0.707
+Country_Bolivia                 -1.8913      0.171    -11.081      0.000      -2.226      -1.557
+Country_Bosnia                  -1.7911      0.171    -10.493      0.000      -2.126      -1.456
+Country_Botswana                -2.0443      0.171    -11.978      0.000      -2.379      -1.710
+Country_Brazil                  -1.9137      0.170    -11.240      0.000      -2.247      -1.580
+Country_Cambodia                -2.0282      0.171    -11.883      0.000      -2.363      -1.694
+Country_Cameroon                 0.0468      0.171      0.274      0.784      -0.288       0.381
+Country_Canada                  -0.7072      0.171     -4.143      0.000      -1.042      -0.373
+Country_Chile                   -2.3445      0.171    -13.736      0.000      -2.679      -2.010
+Country_China                   -2.1725      0.171    -12.729      0.000      -2.507      -1.838
+Country_Colombia                 0.7545      0.171      4.421      0.000       0.420       1.089
+Country_Costa Rica              -1.8258      0.171    -10.697      0.000      -2.160      -1.491
+Country_Croatia                 -1.4352      0.171     -8.408      0.000      -1.770      -1.101
+Country_Czech Republic          -2.2047      0.171    -12.917      0.000      -2.539      -1.870
+Country_Egypt                   -1.5209      0.171     -8.908      0.000      -1.856      -1.186
+Country_Estonia                  0.0760      0.171      0.445      0.656      -0.259       0.411
+Country_Finland                 -1.0857      0.171     -6.361      0.000      -1.420      -0.751
+Country_France                   0.6224      0.171      3.646      0.000       0.288       0.957
+Country_Georgia                 -2.1566      0.171    -12.635      0.000      -2.491      -1.822
+Country_Germany                 -0.7566      0.171     -4.433      0.000      -1.091      -0.422
+Country_Ghana                   -2.2663      0.171    -13.278      0.000      -2.601      -1.932
+Country_Greece                   0.4126      0.171      2.418      0.016       0.078       0.747
+Country_Guatemala               -2.1745      0.171    -12.740      0.000      -2.509      -1.840
+Country_Haiti                   -0.4152      0.171     -2.432      0.015      -0.750      -0.081
+Country_Hungary                 -1.8360      0.171    -10.756      0.000      -2.171      -1.501
+Country_India                   -2.0728      0.171    -12.144      0.000      -2.407      -1.738
+Country_Indonesia               -2.3021      0.171    -13.488      0.000      -2.637      -1.967
+Country_Iran                    -1.9055      0.171    -11.164      0.000      -2.240      -1.571
+Country_Israel                  -1.4026      0.171     -8.218      0.000      -1.737      -1.068
+Country_Italy                    0.1217      0.171      0.713      0.476      -0.213       0.456
+Country_Malawi                  -1.3167      0.171     -7.714      0.000      -1.651      -0.982
+Country_Morocco                 -1.9241      0.171    -11.273      0.000      -2.259      -1.590
+Country_Poland                  -1.7446      0.171    -10.221      0.000      -2.079      -1.410
+Country_Rwanda                  -1.2737      0.171     -7.463      0.000      -1.608      -0.939
+Country_Saudi Arabia            -1.6026      0.171     -9.390      0.000      -1.937      -1.268
+Country_Serbia                  -2.0062      0.171    -11.755      0.000      -2.341      -1.672
+Country_South Africa            -2.3391      0.171    -13.705      0.000      -2.674      -2.004
+Country_South Korea             -2.2338      0.171    -13.088      0.000      -2.568      -1.899
+Country_Spain                   -0.2206      0.171     -1.293      0.196      -0.555       0.114
+Country_Sri Lanka               -1.5871      0.171     -9.299      0.000      -1.922      -1.253
+Country_Suriname                -2.0595      0.171    -12.062      0.000      -2.394      -1.725
+Country_Sweden                  -0.4185      0.171     -2.452      0.014      -0.753      -0.084
+Country_Switzerland             -1.9143      0.171    -11.215      0.000      -2.249      -1.580
+Country_Tanzania                -2.0705      0.171    -12.131      0.000      -2.405      -1.736
+Country_Thailand                -1.1396      0.171     -6.677      0.000      -1.474      -0.805
+Country_Turkey                  -2.1822      0.171    -12.785      0.000      -2.517      -1.848
+Country_Uganda                  -1.2590      0.171     -7.377      0.000      -1.594      -0.924
+Country_Ukraine                 -1.9543      0.171    -11.450      0.000      -2.289      -1.620
+Country_United Arab Emirates    -2.2572      0.171    -13.225      0.000      -2.592      -1.923
+Country_United Kingdom          -2.1367      0.171    -12.518      0.000      -2.471      -1.802
+Country_United States           -1.4987      0.171     -8.781      0.000      -1.833      -1.164
+Country_Venezuela               -1.8682      0.171    -10.946      0.000      -2.203      -1.534
+Country_Vietnam                 -2.2565      0.171    -13.221      0.000      -2.591      -1.922
+Country_Zimbabwe                -2.3880      0.171    -13.991      0.000      -2.723      -2.053
+==============================================================================
+Omnibus:                     1658.724   Durbin-Watson:                   2.008
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             6840.161
+Skew:                           1.330   Prob(JB):                         0.00
+Kurtosis:                       7.555   Cond. No.                     3.11e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.11e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
